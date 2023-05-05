@@ -1,0 +1,70 @@
+ I
+X X
+X x
+Y Y
+Y y
+Z Z
+Z z
+XX XX
+XX xx
+XY XY
+XY xy
+XZ XZ
+XZ xz
+YX YX
+YX yx
+YY YY
+YY yy
+YZ YZ
+YZ yz
+ZX ZX
+ZX zx
+ZY ZY
+ZY zy
+ZZ ZZ
+ZZ zz
+ZZIZ = [XZ, ZY] / 1
+YXY = [YY, ZY] / 1
+ZYXX = [YY, XXX] / 1
+ZZXX = [YZ, XXX] / 1
+Vanilla (random)
+1 * ZYYY + 1 * YYZY + -1 * ZZYZ + -1 * YZZZ = [1 * IXII + 1 * IIIX, -1 * YZZY + -1 * ZYYZ] / 1
+ I
+X X
+X x
+Y Y
+Y y
+Z Z
+Z z
+XX XX
+XX xx
+XY XY
+XY xy
+XZ XZ
+XZ xz
+YX YX
+YX yx
+YY YY
+YY yy
+YZ YZ
+YZ yz
+ZX ZX
+ZX zx
+ZY ZY
+ZY zy
+ZZ ZZ
+ZZ zz
+ZZIZ = [XZ, ZY] / 1
+YXY = [YY, ZY] / 1
+ZYXX = [YY, XXX] / 1
+ZZXX = [YZ, XXX] / 1
+Vanilla (random)
+1 * YYXI + -1 * ZZIX + 1 * XIYY + -1 * IXZZ = [1 * IXXI + 1 * XIIX, -1 * ZYXX + -1 * XXZY] / 1
+1 * XZYI + -1 * ZYIX + -1 * IXZY + 1 * YIXZ = [1 * XYII + 1 * IIXY, -1 * XZZY + -1 * ZYXZ] / 1
+1 * XYXX + -1 * YYYX + 1 * XXXY + -1 * YXYY = [-1 * ZZYY + -1 * YYZZ, 1 * YYZI + -1 * IZXX + 1 * ZIYY + -1 * XXIZ] / 1
+1 * ZXYI + 1 * YIZX + 1 * XZIY + 1 * IYXZ = [1 * ZXIX + 1 * IXZX, 1 * XXZI + 1 * ZIXX + -1 * IZYY + -1 * YYIZ] / 1
+1 * YYXI + 1 * XYYI + 1 * YIXY + 1 * XIYY = [1 * YYYI + 1 * YIYY, 1 * ZYIY + 1 * IYZY] / 1
+-1 * ZIZI + -1 * IXIX + 1 * XYXY + 1 * YZYZ = [-1 * ZYYX + -1 * YXZY, 1 * ZZYI + -1 * IYXX + -1 * XXIY + 1 * YIZZ] / 2
+-1 * ZXXX + -1 * XXZX + 1 * ZYXY + 1 * XYZY = [1 * IYXI + 1 * XIIY, 1 * YYXI + -1 * ZZIX + 1 * XIYY + -1 * IXZZ] / 1
+1 * IZIY + 1 * ZZZY + 1 * IYIZ + 1 * ZYZZ = [1 * IXZI + 1 * ZIIX, 1 * ZYIY + 1 * IYZY] / 1
+-1 * XXXX + 1 * ZXZX + 1 * XYXY + -1 * ZYZY = [1 * YYIY + 1 * IYYY, 1 * ZIXI + 1 * XIZI + 1 * ZZXZ + 1 * XZZZ] / 2

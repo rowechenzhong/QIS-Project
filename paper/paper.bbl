@@ -1,0 +1,62 @@
+\begin{thebibliography}{10}
+
+\bibitem{bacon2005quantum}
+Dave Bacon, Isaac~L. Chuang, and Aram~W. Harrow.
+\newblock The quantum schur transform: I. efficient qudit circuits, 2005.
+
+\bibitem{Brand_o_2016}
+Fernando G. S.~L. Brand{\~{a}}o, Aram~W. Harrow, and Micha{\l} Horodecki.
+\newblock Local random quantum circuits are approximate polynomial-designs.
+\newblock {\em Communications in Mathematical Physics}, 346(2):397--434, aug
+  2016.
+
+\bibitem{Collins_2006}
+Beno{\^{\i}}t Collins and Piotr {\'{S}}niady.
+\newblock Integration with respect to the haar measure on unitary, orthogonal
+  and symplectic group.
+\newblock {\em Communications in Mathematical Physics}, 264(3):773--795, mar
+  2006.
+
+\bibitem{Emerson_2005}
+Joseph Emerson, Etera Livine, and Seth Lloyd.
+\newblock Convergence conditions for random quantum circuits.
+\newblock {\em Physical Review A}, 72(6), dec 2005.
+
+\bibitem{Etingof2009}
+Pavel Etingof, Oleg Golberg, Sebastian Hensel, Tiankai Liu, Alex Schwendner,
+  Dmitry Vaintrob, and Elena Yudovina.
+\newblock Introduction to representation theory, 2009.
+\newblock cite arxiv:0901.0827 Comment: 108 pages. In the latest version,
+  misprints and errors were corrected and new exercises were added, in
+  particular ones suggested by Darij Grinberg.
+
+\bibitem{Fisher_2023}
+Matthew~P.A. Fisher, Vedika Khemani, Adam Nahum, and Sagar Vijay.
+\newblock Random quantum circuits.
+\newblock {\em Annual Review of Condensed Matter Physics}, 14(1):335--379, mar
+  2023.
+
+\bibitem{fulton_harris_2004}
+William Fulton and Joe Harris.
+\newblock {\em Representation theory: A first course}.
+\newblock Springer, 2004.
+
+\bibitem{Haferkamp_2022}
+Jonas Haferkamp.
+\newblock Random quantum circuits are approximate unitary $t$-designs in depth
+  $o(nt^{5 + o(1)})$.
+\newblock {\em Quantum}, 6:795, sep 2022.
+
+\bibitem{Harrow_2009}
+Aram~W. Harrow and Richard~A. Low.
+\newblock Random quantum circuits are approximate 2-designs.
+\newblock {\em Communications in Mathematical Physics}, 291(1):257--302, jul
+  2009.
+
+\bibitem{Hayden_2004}
+Patrick Hayden, Debbie Leung, Peter~W. Shor, and Andreas Winter.
+\newblock Randomizing quantum states: Constructions and applications.
+\newblock {\em Communications in Mathematical Physics}, 250(2):371--391, jul
+  2004.
+
+\end{thebibliography}
