@@ -820,3 +820,22 @@ IYXZIXY = (-IYZXY * IYXXZ)
 126 => -IXXZXX
 -IXIYIX = (-IXXZXX * XXX)
 -IXXYZYZ = (-IXXZXX * IXYZZ)
+ ------------------ 
+0 => I
+ ------------------ 
+1 => X
+ ------------------ 
+4 => IX
+ ------------------ 
+23 => IZY
+XYY + -IZZX = (IZY * XX)
+YYY = (IZY * YX)
+ZYY + IZXX = (IZY * ZX)
+-YXY = (IZY * YY)
+-ZXY + IZXY = (IZY * ZY)
+ ------------------ 
+24 => IZZ
+XYZ + IZYX = (IZZ * XX)
+ ------------------ 
+36 => IZYY + -XXZ
+XYYY + -XXYX = (IZYY + -XXZ * XX)

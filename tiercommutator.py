@@ -269,8 +269,8 @@ while len(iqueue) > 0:
         res = convolve(space[i], space[j])
         if len(res) == 0:
             continue
-        if SIMPLE_ONLY and len(res) > 1:
-            continue
+        # if SIMPLE_ONLY and len(res) > 1:
+        #     continue
 
         # print(pretty(res), " = (", pretty(
         #     space[i]), " * ", pretty(space[j]), ")")
